@@ -2,7 +2,7 @@
   "name": "my-portifolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "github-page/",
+  "homepage": "my-portifolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
