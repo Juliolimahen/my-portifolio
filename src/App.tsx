@@ -1,3 +1,4 @@
+import Footer from "./components/Footer.tsx/Footer"
 import Home from "./pages/Home/Home"
 
 const App = () => {
@@ -5,6 +6,7 @@ const App = () => {
   return (
     <>
       <Home />
+      <Footer />
     </>
   )
 }
